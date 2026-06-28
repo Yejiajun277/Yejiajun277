@@ -2,10 +2,6 @@
 
 ### AI Full-Stack Developer | Multimodal AI Researcher | Agent System Builder
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Yejiajun277&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
